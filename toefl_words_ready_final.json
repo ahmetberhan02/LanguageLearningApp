@@ -1,0 +1,1997 @@
+[
+  {
+    "id":1,
+    "en":"adversely (adv)",
+    "tr":"in a harmful or negative way."
+  },
+  {
+    "id":2,
+    "en":"aggregate (n)",
+    "tr":"a total amount or sum made up of smaller amounts."
+  },
+  {
+    "id":3,
+    "en":"cultivation (n)",
+    "tr":"the act of preparing land and growing crops on it."
+  },
+  {
+    "id":4,
+    "en":"fertilize (v)",
+    "tr":"to add substances to soil to make plants grow more successfully."
+  },
+  {
+    "id":5,
+    "en":"intensify (v)",
+    "tr":"to become or make something stronger or more extreme."
+  },
+  {
+    "id":6,
+    "en":"irrigation (n)",
+    "tr":"the supply of water to land or crops to help growth."
+  },
+  {
+    "id":7,
+    "en":"obtain (v)",
+    "tr":"to get or gain something, especially by effort."
+  },
+  {
+    "id":8,
+    "en":"photosynthesis (n)",
+    "tr":"the process by which green plants use sunlight to make food from carbon dioxide and water."
+  },
+  {
+    "id":9,
+    "en":"precipitation (n)",
+    "tr":"rain, snow, or other forms of water falling from the sky."
+  },
+  {
+    "id":10,
+    "en":"anticipate (v)",
+    "tr":"to expect something to happen and prepare for it."
+  },
+  {
+    "id":11,
+    "en":"catastrophic (adj)",
+    "tr":"involving or causing sudden great damage or suffering."
+  },
+  {
+    "id":12,
+    "en":"collide (v)",
+    "tr":"to crash into something or someone."
+  },
+  {
+    "id":13,
+    "en":"eruption (n)",
+    "tr":"a sudden explosion or burst, especially from a volcano."
+  },
+  {
+    "id":14,
+    "en":"famine (n)",
+    "tr":"a severe shortage of food causing hunger and death."
+  },
+  {
+    "id":15,
+    "en":"flood (n)",
+    "tr":"a large amount of water covering land that is usually dry."
+  },
+  {
+    "id":16,
+    "en":"impact (n)",
+    "tr":"the strong effect or influence something has."
+  },
+  {
+    "id":17,
+    "en":"persevere (v)",
+    "tr":"to continue trying to achieve something despite difficulties."
+  },
+  {
+    "id":18,
+    "en":"plunge (v)",
+    "tr":"to fall suddenly and quickly from a high position."
+  },
+  {
+    "id":19,
+    "en":"unleash (v)",
+    "tr":"to suddenly release a strong force that cannot be controlled."
+  },
+  {
+    "id":20,
+    "en":"adapt (v)",
+    "tr":"to change something to suit different conditions or a new environment."
+  },
+  {
+    "id":21,
+    "en":"diverse (adj)",
+    "tr":"showing a great deal of variety; very different."
+  },
+  {
+    "id":22,
+    "en":"evolve (v)",
+    "tr":"to develop gradually, especially from a simple to a more complex form."
+  },
+  {
+    "id":23,
+    "en":"feature (n)",
+    "tr":"a typical quality or important part of something."
+  },
+  {
+    "id":24,
+    "en":"generation (n)",
+    "tr":"all the people of about the same age within a society."
+  },
+  {
+    "id":25,
+    "en":"inherent (adj)",
+    "tr":"existing as a natural or permanent part of something."
+  },
+  {
+    "id":26,
+    "en":"migration (n)",
+    "tr":"the movement of people or animals from one place to another."
+  },
+  {
+    "id":27,
+    "en":"physical (adj)",
+    "tr":"connected with the body or with real things you can touch and see."
+  },
+  {
+    "id":28,
+    "en":"process (n)",
+    "tr":"a series of actions or steps taken to achieve a particular end."
+  },
+  {
+    "id":29,
+    "en":"survive (v)",
+    "tr":"to continue to live or exist, especially in spite of danger or hardship."
+  },
+  {
+    "id":30,
+    "en":"constraint (n)",
+    "tr":"a limitation or restriction on someone or something."
+  },
+  {
+    "id":31,
+    "en":"contamination (n)",
+    "tr":"the presence of harmful or unwanted substances in something."
+  },
+  {
+    "id":32,
+    "en":"deplete (v)",
+    "tr":"to reduce something in size or amount, especially supplies or energy."
+  },
+  {
+    "id":33,
+    "en":"dispose of (phr. v)",
+    "tr":"to get rid of something that is no longer wanted or needed."
+  },
+  {
+    "id":34,
+    "en":"elementally (adv)",
+    "tr":"in a basic or essential way."
+  },
+  {
+    "id":35,
+    "en":"emission (n)",
+    "tr":"the act of sending out gas, heat, light, etc. into the air."
+  },
+  {
+    "id":36,
+    "en":"extinction (n)",
+    "tr":"the complete disappearance of a species or a way of life."
+  },
+  {
+    "id":37,
+    "en":"reservoir (n)",
+    "tr":"a natural or artificial lake for storing water; a supply of something."
+  },
+  {
+    "id":38,
+    "en":"shrink (v)",
+    "tr":"to become smaller in size or amount."
+  },
+  {
+    "id":39,
+    "en":"stable (adj)",
+    "tr":"firmly fixed or not likely to change or move suddenly."
+  },
+  {
+    "id":40,
+    "en":"adjust (v)",
+    "tr":"to change something slightly to make it more suitable or effective."
+  },
+  {
+    "id":41,
+    "en":"arbitrary (adj)",
+    "tr":"based on random choice or personal whim, rather than reason or system."
+  },
+  {
+    "id":42,
+    "en":"denominator (n)",
+    "tr":"the number below the line in a fraction."
+  },
+  {
+    "id":43,
+    "en":"exponentially (adv)",
+    "tr":"in a way that becomes more and more rapid."
+  },
+  {
+    "id":44,
+    "en":"infinitesimal (adj)",
+    "tr":"extremely small."
+  },
+  {
+    "id":45,
+    "en":"maximize (v)",
+    "tr":"to increase something as much as possible."
+  },
+  {
+    "id":46,
+    "en":"parallel (adj)",
+    "tr":"having the same direction, nature, or tendency; side by side and equally distant."
+  },
+  {
+    "id":47,
+    "en":"proportion (n)",
+    "tr":"a part of a whole; the relationship between things in terms of size or amount."
+  },
+  {
+    "id":48,
+    "en":"rate (n)",
+    "tr":"the speed or frequency of something, or a measure of quantity."
+  },
+  {
+    "id":49,
+    "en":"sequence (n)",
+    "tr":"a particular order in which related events or things follow each other."
+  },
+  {
+    "id":50,
+    "en":"accuracy (n)",
+    "tr":"the state of being correct and exact."
+  },
+  {
+    "id":51,
+    "en":"adjacent (adj)",
+    "tr":"next to or very near something."
+  },
+  {
+    "id":52,
+    "en":"compress (v)",
+    "tr":"to press something into a smaller space."
+  },
+  {
+    "id":53,
+    "en":"feasibly (adv)",
+    "tr":"in a way that is possible or practical to do."
+  },
+  {
+    "id":54,
+    "en":"gut (v)",
+    "tr":"to remove the inside parts of a building or object; to destroy its internal structure."
+  },
+  {
+    "id":55,
+    "en":"integrally (adv)",
+    "tr":"in a way that is essential or necessary as a part of a whole."
+  },
+  {
+    "id":56,
+    "en":"overlap (v)",
+    "tr":"to cover part of the same area or share some of the same features."
+  },
+  {
+    "id":57,
+    "en":"retain (v)",
+    "tr":"to keep or continue to have something."
+  },
+  {
+    "id":58,
+    "en":"seep (v)",
+    "tr":"to flow or leak slowly through small holes or spaces."
+  },
+  {
+    "id":59,
+    "en":"structure (n)",
+    "tr":"the way in which the parts of something are organized or arranged."
+  },
+  {
+    "id":60,
+    "en":"circulate (v)",
+    "tr":"to move around continuously within a system or area."
+  },
+  {
+    "id":61,
+    "en":"corrode (v)",
+    "tr":"to destroy something slowly through a chemical process."
+  },
+  {
+    "id":62,
+    "en":"derive (v)",
+    "tr":"to get something from a specific source."
+  },
+  {
+    "id":63,
+    "en":"detection (n)",
+    "tr":"the act of discovering or noticing something that is difficult to see or hear."
+  },
+  {
+    "id":64,
+    "en":"expeditiously (adv)",
+    "tr":"quickly and efficiently."
+  },
+  {
+    "id":65,
+    "en":"implement (v)",
+    "tr":"to put a plan or system into operation."
+  },
+  {
+    "id":66,
+    "en":"innovative (adj)",
+    "tr":"using new ideas or methods."
+  },
+  {
+    "id":67,
+    "en":"installation (n)",
+    "tr":"the act of placing or fixing equipment or machinery in position."
+  },
+  {
+    "id":68,
+    "en":"maintenance (n)",
+    "tr":"the process of preserving something in good condition."
+  },
+  {
+    "id":69,
+    "en":"simulation (n)",
+    "tr":"a model of a real activity or situation."
+  },
+  {
+    "id":70,
+    "en":"combustion (n)",
+    "tr":"the process of burning something."
+  },
+  {
+    "id":71,
+    "en":"component (n)",
+    "tr":"one of the parts of something that combine to form a whole."
+  },
+  {
+    "id":72,
+    "en":"convey (v)",
+    "tr":"to communicate or express something; to transport."
+  },
+  {
+    "id":73,
+    "en":"discretely (adv)",
+    "tr":"separately and individually."
+  },
+  {
+    "id":74,
+    "en":"nucleus (n)",
+    "tr":"the central and most important part of an object, movement, or group."
+  },
+  {
+    "id":75,
+    "en":"permeate (v)",
+    "tr":"to spread through or pass into every part of something."
+  },
+  {
+    "id":76,
+    "en":"rotate (v)",
+    "tr":"to turn or cause something to turn around a central point."
+  },
+  {
+    "id":77,
+    "en":"solar (adj)",
+    "tr":"relating to or coming from the sun."
+  },
+  {
+    "id":78,
+    "en":"source (n)",
+    "tr":"the place where something begins or is obtained."
+  },
+  {
+    "id":79,
+    "en":"trigger (v)",
+    "tr":"to cause something to start happening suddenly."
+  },
+  {
+    "id":80,
+    "en":"acquisition (n)",
+    "tr":"the process of getting or gaining something."
+  },
+  {
+    "id":81,
+    "en":"anomaly (n)",
+    "tr":"something that deviates from the expected or normal standard."
+  },
+  {
+    "id":82,
+    "en":"consciously (adv)",
+    "tr":"in a way that is deliberate or with awareness."
+  },
+  {
+    "id":83,
+    "en":"degrade (v)",
+    "tr":"to make something worse, especially in quality."
+  },
+  {
+    "id":84,
+    "en":"gap (n)",
+    "tr":"a space or difference between two things or groups."
+  },
+  {
+    "id":85,
+    "en":"indisputable (adj)",
+    "tr":"impossible to doubt or question; certain."
+  },
+  {
+    "id":86,
+    "en":"intervene (v)",
+    "tr":"to become involved in a situation to improve or change it."
+  },
+  {
+    "id":87,
+    "en":"intuitively (adv)",
+    "tr":"based on feelings rather than facts or proof."
+  },
+  {
+    "id":88,
+    "en":"recede (v)",
+    "tr":"to move back from a previous position; to become weaker or less."
+  },
+  {
+    "id":89,
+    "en":"retrieve (v)",
+    "tr":"to get something back that was lost or taken away."
+  },
+  {
+    "id":90,
+    "en":"agnostic (n)",
+    "tr":"a person who believes that it is not possible to know whether God exists."
+  },
+  {
+    "id":91,
+    "en":"animism (n)",
+    "tr":"the belief that all natural things, such as animals and plants, have a spirit."
+  },
+  {
+    "id":92,
+    "en":"atheist (n)",
+    "tr":"a person who believes that God does not exist."
+  },
+  {
+    "id":93,
+    "en":"be inclined to (phr. v)",
+    "tr":"to have a tendency or preference for something."
+  },
+  {
+    "id":94,
+    "en":"contemplate (v)",
+    "tr":"to think about something deeply and seriously for a long time."
+  },
+  {
+    "id":95,
+    "en":"deify (v)",
+    "tr":"to worship or treat someone or something as a god."
+  },
+  {
+    "id":96,
+    "en":"ecclesiastical (adj)",
+    "tr":"related to the Christian church or its clergy."
+  },
+  {
+    "id":97,
+    "en":"exalt (v)",
+    "tr":"to praise someone or something very highly."
+  },
+  {
+    "id":98,
+    "en":"pious (adj)",
+    "tr":"having or showing strong religious beliefs."
+  },
+  {
+    "id":99,
+    "en":"sacrifice (v)",
+    "tr":"to give up something valuable for the sake of something else."
+  },
+  {
+    "id":100,
+    "en":"aggravate (v)",
+    "tr":"to make a problem, injury, or bad situation worse."
+  },
+  {
+    "id":101,
+    "en":"decrepit (adj)",
+    "tr":"weak and in bad condition because of age or long use."
+  },
+  {
+    "id":102,
+    "en":"disease (n)",
+    "tr":"an illness affecting humans, animals, or plants."
+  },
+  {
+    "id":103,
+    "en":"fatally (adv)",
+    "tr":"in a way that causes death."
+  },
+  {
+    "id":104,
+    "en":"forensics (n)",
+    "tr":"scientific tests used to solve crimes, especially involving the examination of physical evidence."
+  },
+  {
+    "id":105,
+    "en":"persist (v)",
+    "tr":"to continue to do or exist despite difficulty or opposition."
+  },
+  {
+    "id":106,
+    "en":"prognosis (n)",
+    "tr":"a forecast of the likely outcome of an illness or situation."
+  },
+  {
+    "id":107,
+    "en":"terminal (adj)",
+    "tr":"having an illness that cannot be cured and will lead to death."
+  },
+  {
+    "id":108,
+    "en":"vein (n)",
+    "tr":"a tube in the body that carries blood to the heart."
+  },
+  {
+    "id":109,
+    "en":"wound (n)",
+    "tr":"an injury to the body, typically involving a cut or break in the skin."
+  },
+  {
+    "id":110,
+    "en":"anesthesia (n)",
+    "tr":"a substance that makes a person unable to feel pain, used during medical operations."
+  },
+  {
+    "id":111,
+    "en":"augment (v)",
+    "tr":"to increase the size, value, or effectiveness of something."
+  },
+  {
+    "id":112,
+    "en":"certifiably (adv)",
+    "tr":"in a way that can be officially proven or confirmed."
+  },
+  {
+    "id":113,
+    "en":"complication (n)",
+    "tr":"a problem or difficulty that makes a situation more complex."
+  },
+  {
+    "id":114,
+    "en":"cure (n)",
+    "tr":"a treatment that makes an illness or condition go away."
+  },
+  {
+    "id":115,
+    "en":"implant (v)",
+    "tr":"to insert something into the body, especially during surgery."
+  },
+  {
+    "id":116,
+    "en":"inject (v)",
+    "tr":"to put a liquid, especially a drug, into someone's body using a needle."
+  },
+  {
+    "id":117,
+    "en":"obese (adj)",
+    "tr":"extremely overweight in a way that is harmful to health."
+  },
+  {
+    "id":118,
+    "en":"procedure (n)",
+    "tr":"a medical operation or a set of actions done in a specific way."
+  },
+  {
+    "id":119,
+    "en":"scar (n)",
+    "tr":"a mark left on the skin after a wound has healed."
+  },
+  {
+    "id":120,
+    "en":"astrological (adj)",
+    "tr":"related to the study of the positions of stars and planets in the belief that they influence human affairs."
+  },
+  {
+    "id":121,
+    "en":"divination (n)",
+    "tr":"the practice of predicting the future or discovering hidden knowledge using supernatural means."
+  },
+  {
+    "id":122,
+    "en":"haunt (v)",
+    "tr":"to appear as a ghost or memory that repeatedly disturbs someone."
+  },
+  {
+    "id":123,
+    "en":"horror (n)",
+    "tr":"a feeling of intense fear, shock, or disgust."
+  },
+  {
+    "id":124,
+    "en":"intermediary (n)",
+    "tr":"a person who acts as a link between people to bring about an agreement."
+  },
+  {
+    "id":125,
+    "en":"invoke (v)",
+    "tr":"to call upon a higher power or authority for help or support."
+  },
+  {
+    "id":126,
+    "en":"meditate (v)",
+    "tr":"to focus the mind for spiritual or relaxation purposes."
+  },
+  {
+    "id":127,
+    "en":"phantom (n)",
+    "tr":"a ghost or something seen, heard, or sensed but having no physical reality."
+  },
+  {
+    "id":128,
+    "en":"psychic (adj)",
+    "tr":"related to the mind or supernatural mental powers."
+  },
+  {
+    "id":129,
+    "en":"self-perpetuating (adj)",
+    "tr":"continuing without outside influence or help once started."
+  },
+  {
+    "id":130,
+    "en":"assimilate (v)",
+    "tr":"to become part of a group or culture by adopting its characteristics."
+  },
+  {
+    "id":131,
+    "en":"cremation (n)",
+    "tr":"the act of burning a dead body until it is reduced to ashes."
+  },
+  {
+    "id":132,
+    "en":"domesticate (v)",
+    "tr":"to tame and keep animals or cultivate plants for human use."
+  },
+  {
+    "id":133,
+    "en":"folklore (n)",
+    "tr":"traditional stories, customs, and beliefs of a community."
+  },
+  {
+    "id":134,
+    "en":"fossilize (v)",
+    "tr":"to change organic material into a fossil over time."
+  },
+  {
+    "id":135,
+    "en":"relic (n)",
+    "tr":"an object surviving from an earlier time, especially one of historical interest."
+  },
+  {
+    "id":136,
+    "en":"rite (n)",
+    "tr":"a religious or ceremonial practice."
+  },
+  {
+    "id":137,
+    "en":"ritually (adv)",
+    "tr":"in a way that follows a set religious or ceremonial procedure."
+  },
+  {
+    "id":138,
+    "en":"saga (n)",
+    "tr":"a long story of heroic achievement, often from ancient times."
+  },
+  {
+    "id":139,
+    "en":"vestige (n)",
+    "tr":"a small part or trace of something that is disappearing or no longer exists."
+  },
+  {
+    "id":140,
+    "en":"amend (v)",
+    "tr":"to change something formally to make it better or more accurate."
+  },
+  {
+    "id":141,
+    "en":"biased (adj)",
+    "tr":"showing an unfair preference for or against something."
+  },
+  {
+    "id":142,
+    "en":"burden (n)",
+    "tr":"a heavy load, either physical or emotional."
+  },
+  {
+    "id":143,
+    "en":"counter (v)",
+    "tr":"to act in opposition to something."
+  },
+  {
+    "id":144,
+    "en":"de facto (adj)",
+    "tr":"existing in fact, though not officially recognized."
+  },
+  {
+    "id":145,
+    "en":"discriminate (v)",
+    "tr":"to treat someone unfairly based on group, class, or category."
+  },
+  {
+    "id":146,
+    "en":"notion (n)",
+    "tr":"an idea, belief, or opinion."
+  },
+  {
+    "id":147,
+    "en":"oppress (v)",
+    "tr":"to treat people in a cruel or unfair way, especially by limiting their freedom."
+  },
+  {
+    "id":148,
+    "en":"paradigm (n)",
+    "tr":"a typical example or model of something; a framework of ideas."
+  },
+  {
+    "id":149,
+    "en":"prejudiced (adj)",
+    "tr":"having an unreasonable dislike of or preference for someone or something."
+  },
+  {
+    "id":150,
+    "en":"curriculum (n)",
+    "tr":"the subjects included in a course of study at a school or college."
+  },
+  {
+    "id":151,
+    "en":"distinctly (adv)",
+    "tr":"clearly; in a way that is easy to recognize or understand."
+  },
+  {
+    "id":152,
+    "en":"erudite (adj)",
+    "tr":"having or showing great knowledge gained from study and reading."
+  },
+  {
+    "id":153,
+    "en":"fortify (v)",
+    "tr":"to strengthen a place, feeling, or argument, especially against attack."
+  },
+  {
+    "id":154,
+    "en":"implicitly (adv)",
+    "tr":"in a way that is not directly expressed; by implication."
+  },
+  {
+    "id":155,
+    "en":"parochial (adj)",
+    "tr":"concerned only with narrow local concerns and not wider or more general issues."
+  },
+  {
+    "id":156,
+    "en":"rigor (n)",
+    "tr":"the quality of being extremely thorough and accurate; or harsh conditions."
+  },
+  {
+    "id":157,
+    "en":"roster (n)",
+    "tr":"a list or plan showing people's duties or times when they are to do a particular job."
+  },
+  {
+    "id":158,
+    "en":"secular (adj)",
+    "tr":"not connected with religious or spiritual matters."
+  },
+  {
+    "id":159,
+    "en":"suspend (v)",
+    "tr":"to temporarily stop something from continuing or being effective."
+  },
+  {
+    "id":160,
+    "en":"allegiance (n)",
+    "tr":"loyalty and support for a ruler, country, group, or cause."
+  },
+  {
+    "id":161,
+    "en":"artillery (n)",
+    "tr":"large, powerful guns used in warfare on land."
+  },
+  {
+    "id":162,
+    "en":"battle (n)",
+    "tr":"a fight between armed forces."
+  },
+  {
+    "id":163,
+    "en":"cease (v)",
+    "tr":"to stop happening or to stop something from continuing."
+  },
+  {
+    "id":164,
+    "en":"hierarchy (n)",
+    "tr":"a system in which people or things are arranged according to their importance."
+  },
+  {
+    "id":165,
+    "en":"in the trenches (phr)",
+    "tr":"in the most active or difficult part of a job or situation."
+  },
+  {
+    "id":166,
+    "en":"mobilize (v)",
+    "tr":"to prepare and organize people or resources for action."
+  },
+  {
+    "id":167,
+    "en":"rank (n)",
+    "tr":"a position in a hierarchy or scale, especially in the armed forces."
+  },
+  {
+    "id":168,
+    "en":"ratio (n)",
+    "tr":"the relationship between two amounts, showing how much bigger one is than the other."
+  },
+  {
+    "id":169,
+    "en":"strategic (adj)",
+    "tr":"carefully designed to achieve a particular goal, especially in war or business."
+  },
+  {
+    "id":170,
+    "en":"annex (v)",
+    "tr":"to take control of land or a country and make it part of a larger territory."
+  },
+  {
+    "id":171,
+    "en":"apex (n)",
+    "tr":"the top or highest part of something; the peak."
+  },
+  {
+    "id":172,
+    "en":"collapse (v)",
+    "tr":"to fall down or fail suddenly and completely."
+  },
+  {
+    "id":173,
+    "en":"conquest (n)",
+    "tr":"the act of taking control of a country or territory by force."
+  },
+  {
+    "id":174,
+    "en":"devise (v)",
+    "tr":"to invent a plan, system, or method."
+  },
+  {
+    "id":175,
+    "en":"invasive (adj)",
+    "tr":"tending to spread aggressively and harmfully; involving invasion."
+  },
+  {
+    "id":176,
+    "en":"prevailing (adj)",
+    "tr":"existing or accepted in a particular place or time; dominant."
+  },
+  {
+    "id":177,
+    "en":"resist (v)",
+    "tr":"to refuse to accept something and try to stop it from happening."
+  },
+  {
+    "id":178,
+    "en":"severely (adv)",
+    "tr":"very seriously; in a way that causes great difficulty, damage, or pain."
+  },
+  {
+    "id":179,
+    "en":"violation (n)",
+    "tr":"the act of breaking a law, agreement, or principle."
+  },
+  {
+    "id":180,
+    "en":"chronologically (adv)",
+    "tr":"in the order in which things happened over time."
+  },
+  {
+    "id":181,
+    "en":"coincide (v)",
+    "tr":"to happen at the same time or to be the same in nature or meaning."
+  },
+  {
+    "id":182,
+    "en":"consequence (n)",
+    "tr":"a result or effect of an action or condition."
+  },
+  {
+    "id":183,
+    "en":"core (n)",
+    "tr":"the most important or central part of something."
+  },
+  {
+    "id":184,
+    "en":"deny (v)",
+    "tr":"to say that something is not true or to refuse to accept."
+  },
+  {
+    "id":185,
+    "en":"diminish (v)",
+    "tr":"to become or make something smaller or less important."
+  },
+  {
+    "id":186,
+    "en":"longitude (n)",
+    "tr":"the distance of a place east or west of the greenwich meridian."
+  },
+  {
+    "id":187,
+    "en":"milieu (n)",
+    "tr":"a person's social environment."
+  },
+  {
+    "id":188,
+    "en":"Orwellian (adj)",
+    "tr":"relating to a totalitarian system that suppresses freedom, as described in george orwell's writing."
+  },
+  {
+    "id":189,
+    "en":"reconciliation (n)",
+    "tr":"the process of making two opposing ideas or people become friendly again."
+  },
+  {
+    "id":190,
+    "en":"allocate (v)",
+    "tr":"to give or assign something officially to someone or for a purpose."
+  },
+  {
+    "id":191,
+    "en":"commodity (n)",
+    "tr":"a product that can be bought and sold, especially raw materials."
+  },
+  {
+    "id":192,
+    "en":"decline (v)",
+    "tr":"to become less or worse in condition or quality."
+  },
+  {
+    "id":193,
+    "en":"equity (n)",
+    "tr":"the quality of being fair and impartial; the value of shares in a company."
+  },
+  {
+    "id":194,
+    "en":"inflation (n)",
+    "tr":"a general rise in prices and fall in the purchasing value of money."
+  },
+  {
+    "id":195,
+    "en":"net (adj)",
+    "tr":"after all costs and deductions; final."
+  },
+  {
+    "id":196,
+    "en":"per capita (adv\/adj)",
+    "tr":"for each person."
+  },
+  {
+    "id":197,
+    "en":"regulate (v)",
+    "tr":"to control an activity or process by rules or laws."
+  },
+  {
+    "id":198,
+    "en":"subsidy (n)",
+    "tr":"money given by the government to help support an industry or reduce prices."
+  },
+  {
+    "id":199,
+    "en":"tangible (adj)",
+    "tr":"that can be clearly seen, touched, or measured."
+  },
+  {
+    "id":200,
+    "en":"accumulate (v)",
+    "tr":"to gradually collect or gather something over time."
+  },
+  {
+    "id":201,
+    "en":"affluence (n)",
+    "tr":"the state of having a lot of money and a high standard of living."
+  },
+  {
+    "id":202,
+    "en":"elite (n)",
+    "tr":"a group of people considered to be the best in a society due to their power, talent, or wealth."
+  },
+  {
+    "id":203,
+    "en":"impoverish (v)",
+    "tr":"to make someone or something poor."
+  },
+  {
+    "id":204,
+    "en":"luxury (n)",
+    "tr":"a state of great comfort or elegance, often involving great expense."
+  },
+  {
+    "id":205,
+    "en":"nobility (n)",
+    "tr":"a high-ranking social class, especially those with hereditary titles."
+  },
+  {
+    "id":206,
+    "en":"prestige (n)",
+    "tr":"respect and admiration felt for someone or something because of their status or quality."
+  },
+  {
+    "id":207,
+    "en":"privileged (adj)",
+    "tr":"having special rights or advantages that most people do not have."
+  },
+  {
+    "id":208,
+    "en":"prosper (v)",
+    "tr":"to succeed or thrive, especially financially."
+  },
+  {
+    "id":209,
+    "en":"working class (n)",
+    "tr":"the group of people employed in lower-paid manual or industrial work."
+  },
+  {
+    "id":210,
+    "en":"acquire (v)",
+    "tr":"to gain possession or control of something through effort or experience."
+  },
+  {
+    "id":211,
+    "en":"assess (v)",
+    "tr":"to evaluate or judge the quality, value, or importance of something."
+  },
+  {
+    "id":212,
+    "en":"asset (n)",
+    "tr":"a useful or valuable thing, person, or quality; or property owned."
+  },
+  {
+    "id":213,
+    "en":"hazardous (adj)",
+    "tr":"dangerous, especially to health or safety."
+  },
+  {
+    "id":214,
+    "en":"jointly (adv)",
+    "tr":"involving two or more people or groups together."
+  },
+  {
+    "id":215,
+    "en":"lease (v)",
+    "tr":"to allow someone to use land, property, or equipment for a fixed time in exchange for payment."
+  },
+  {
+    "id":216,
+    "en":"liability (n)",
+    "tr":"legal responsibility for something; or something that causes problems."
+  },
+  {
+    "id":217,
+    "en":"proprietor (n)",
+    "tr":"the owner of a business or property."
+  },
+  {
+    "id":218,
+    "en":"safeguard (v)",
+    "tr":"to protect something or someone from harm or danger."
+  },
+  {
+    "id":219,
+    "en":"sole (adj)",
+    "tr":"one and only; belonging to one person or group."
+  },
+  {
+    "id":220,
+    "en":"compensate (v)",
+    "tr":"to give something, usually money, in return for work or loss."
+  },
+  {
+    "id":221,
+    "en":"dynamic (adj)",
+    "tr":"energetic and forceful; continuously changing or developing."
+  },
+  {
+    "id":222,
+    "en":"enterprising (adj)",
+    "tr":"having the ability and willingness to start new projects or show initiative."
+  },
+  {
+    "id":223,
+    "en":"exploit (v)",
+    "tr":"to make full use of and benefit from a resource; sometimes unfairly."
+  },
+  {
+    "id":224,
+    "en":"incentive (n)",
+    "tr":"something that motivates or encourages someone to do something."
+  },
+  {
+    "id":225,
+    "en":"industrious (adj)",
+    "tr":"hard-working and diligent."
+  },
+  {
+    "id":226,
+    "en":"marginal (adj)",
+    "tr":"very small in amount or effect; not central or important."
+  },
+  {
+    "id":227,
+    "en":"merit (n)",
+    "tr":"the quality of being good, deserving praise or reward."
+  },
+  {
+    "id":228,
+    "en":"promote (v)",
+    "tr":"to encourage or support something; to raise someone to a higher position."
+  },
+  {
+    "id":229,
+    "en":"resign (v)",
+    "tr":"to voluntarily leave a job or position."
+  },
+  {
+    "id":230,
+    "en":"distill (v)",
+    "tr":"to purify a liquid by boiling and condensing; to extract the most important parts."
+  },
+  {
+    "id":231,
+    "en":"entrepreneurial (adj)",
+    "tr":"having the qualities needed to succeed in business and take risks."
+  },
+  {
+    "id":232,
+    "en":"extract (v)",
+    "tr":"to remove or obtain something, especially by effort or force."
+  },
+  {
+    "id":233,
+    "en":"haggle (v)",
+    "tr":"to argue about the price of something in order to reach an agreement."
+  },
+  {
+    "id":234,
+    "en":"intrepid (adj)",
+    "tr":"very brave and not afraid of danger or difficulties."
+  },
+  {
+    "id":235,
+    "en":"merchant (n)",
+    "tr":"a person or company involved in the buying and selling of goods."
+  },
+  {
+    "id":236,
+    "en":"proportionately (adv)",
+    "tr":"in a way that maintains the correct or appropriate balance or ratio."
+  },
+  {
+    "id":237,
+    "en":"prototype (n)",
+    "tr":"the first or original example of something, especially a machine or invention."
+  },
+  {
+    "id":238,
+    "en":"reward (n)",
+    "tr":"something given in recognition of service, effort, or achievement."
+  },
+  {
+    "id":239,
+    "en":"shuttle (n)",
+    "tr":"a vehicle that travels regularly between two places."
+  },
+  {
+    "id":240,
+    "en":"advocate (v)",
+    "tr":"to publicly support or recommend a particular cause or policy."
+  },
+  {
+    "id":241,
+    "en":"authority (n)",
+    "tr":"the power or right to give orders, make decisions, or control others."
+  },
+  {
+    "id":242,
+    "en":"bitterly (adv)",
+    "tr":"in a way that shows strong negative emotion such as anger, sadness, or resentment."
+  },
+  {
+    "id":243,
+    "en":"candidate (n)",
+    "tr":"a person who applies for a job or is nominated for election."
+  },
+  {
+    "id":244,
+    "en":"coalition (n)",
+    "tr":"a temporary alliance of groups or parties for combined action."
+  },
+  {
+    "id":245,
+    "en":"contest (v)",
+    "tr":"to oppose or challenge something, especially an election or decision."
+  },
+  {
+    "id":246,
+    "en":"election (n)",
+    "tr":"a formal process of voting to choose someone for public office."
+  },
+  {
+    "id":247,
+    "en":"inaugurate (v)",
+    "tr":"to officially start or introduce a system, policy, or leader."
+  },
+  {
+    "id":248,
+    "en":"policy (n)",
+    "tr":"a set of ideas or a course of action adopted by an organization or individual."
+  },
+  {
+    "id":249,
+    "en":"poll (n)",
+    "tr":"a survey to measure public opinion; or the process of voting."
+  },
+  {
+    "id":250,
+    "en":"accuse (v)",
+    "tr":"to say that someone has done something wrong or illegal."
+  },
+  {
+    "id":251,
+    "en":"allegedly (adv)",
+    "tr":"used to convey that something is claimed to be true, though not proven."
+  },
+  {
+    "id":252,
+    "en":"civil (adj)",
+    "tr":"relating to ordinary citizens and their concerns, not military or criminal matters."
+  },
+  {
+    "id":253,
+    "en":"convict (v)",
+    "tr":"to find someone guilty of a crime in a court of law."
+  },
+  {
+    "id":254,
+    "en":"guilty (adj)",
+    "tr":"responsible for doing something bad or illegal."
+  },
+  {
+    "id":255,
+    "en":"offense (n)",
+    "tr":"a breach of law or rule; an illegal act."
+  },
+  {
+    "id":256,
+    "en":"peer (n)",
+    "tr":"a person who is the same age, status, or ability as another."
+  },
+  {
+    "id":257,
+    "en":"suspect (n)",
+    "tr":"a person thought to be guilty of a crime or offense."
+  },
+  {
+    "id":258,
+    "en":"verdict (n)",
+    "tr":"the decision made by a jury in a trial."
+  },
+  {
+    "id":259,
+    "en":"witness (n)",
+    "tr":"a person who sees an event, typically a crime or accident, take place."
+  },
+  {
+    "id":260,
+    "en":"apprehend (v)",
+    "tr":"to arrest or take someone into custody."
+  },
+  {
+    "id":261,
+    "en":"ascertain (v)",
+    "tr":"to find out or make certain of something, often through investigation."
+  },
+  {
+    "id":262,
+    "en":"bureaucratic (adj)",
+    "tr":"involving complicated official procedures and rules."
+  },
+  {
+    "id":263,
+    "en":"condemn (v)",
+    "tr":"to express strong disapproval of something; to sentence someone to punishment."
+  },
+  {
+    "id":264,
+    "en":"evidence (n)",
+    "tr":"information or signs indicating whether something is true or valid."
+  },
+  {
+    "id":265,
+    "en":"implicate (v)",
+    "tr":"to show or suggest that someone is involved in a crime or wrongdoing."
+  },
+  {
+    "id":266,
+    "en":"inquiry (n)",
+    "tr":"an official investigation to find out the facts about something."
+  },
+  {
+    "id":267,
+    "en":"intrusively (adv)",
+    "tr":"in a way that interrupts or disturbs a person's privacy or personal space."
+  },
+  {
+    "id":268,
+    "en":"seize (v)",
+    "tr":"to take hold of suddenly and forcibly, often legally or by force."
+  },
+  {
+    "id":269,
+    "en":"surveillance (n)",
+    "tr":"the action of carefully watching someone or something, especially by a police or government organization."
+  },
+  {
+    "id":270,
+    "en":"analyze (v)",
+    "tr":"to examine the nature or structure of something, especially by separating it into its parts, in order to understand or explain it."
+  },
+  {
+    "id":271,
+    "en":"assail (v)",
+    "tr":"to attack someone violently or criticize someone strongly."
+  },
+  {
+    "id":272,
+    "en":"contrary (adj)",
+    "tr":"opposite in nature, direction, or meaning."
+  },
+  {
+    "id":273,
+    "en":"hypothesize (v)",
+    "tr":"to suggest a possible explanation for something, based on limited evidence as a starting point for further investigation."
+  },
+  {
+    "id":274,
+    "en":"impair (v)",
+    "tr":"to damage something or make it less effective."
+  },
+  {
+    "id":275,
+    "en":"inference (n)",
+    "tr":"a conclusion reached based on evidence and reasoning."
+  },
+  {
+    "id":276,
+    "en":"objectively (adv)",
+    "tr":"in a way that is not influenced by personal feelings or opinions; based on observable facts."
+  },
+  {
+    "id":277,
+    "en":"suspicious (adj)",
+    "tr":"causing you to believe that something is wrong or that someone is behaving wrongly."
+  },
+  {
+    "id":278,
+    "en":"tolerate (v)",
+    "tr":"to allow something unpleasant to exist or happen without interference."
+  },
+  {
+    "id":279,
+    "en":"versus (prep)",
+    "tr":"against; used to indicate the two opposing sides in a contest, conflict, or comparison."
+  },
+  {
+    "id":280,
+    "en":"bribery (n)",
+    "tr":"the crime of giving someone money or something else of value, especially to influence a judgment or decision."
+  },
+  {
+    "id":281,
+    "en":"cynically (adv)",
+    "tr":"in a way that shows you do not believe people are sincere or honest."
+  },
+  {
+    "id":282,
+    "en":"erode (v)",
+    "tr":"to gradually destroy the surface of something or reduce its strength or importance."
+  },
+  {
+    "id":283,
+    "en":"evade (v)",
+    "tr":"to avoid something unpleasant or a duty, sometimes dishonestly."
+  },
+  {
+    "id":284,
+    "en":"grotesque (adj)",
+    "tr":"strange and unpleasant, especially in a silly or ugly way."
+  },
+  {
+    "id":285,
+    "en":"integrity (n)",
+    "tr":"the quality of being honest and having strong moral principles."
+  },
+  {
+    "id":286,
+    "en":"prevalent (adj)",
+    "tr":"existing very commonly or happening frequently."
+  },
+  {
+    "id":287,
+    "en":"reform (v)",
+    "tr":"to make changes to something, usually for the better."
+  },
+  {
+    "id":288,
+    "en":"scandal (n)",
+    "tr":"an event or behaviour that causes public outrage or shame."
+  },
+  {
+    "id":289,
+    "en":"unmask (v)",
+    "tr":"to reveal the true character or identity of someone or something that was hidden."
+  },
+  {
+    "id":290,
+    "en":"abduction (n)",
+    "tr":"the action of taking someone away illegally by force or deception; kidnapping."
+  },
+  {
+    "id":291,
+    "en":"coerce (v)",
+    "tr":"to persuade someone forcefully to do something that they are unwilling to do."
+  },
+  {
+    "id":292,
+    "en":"detain (v)",
+    "tr":"to keep someone in official custody, typically for questioning."
+  },
+  {
+    "id":293,
+    "en":"deviant (adj)",
+    "tr":"different from what is considered normal or acceptable, especially in social or sexual behaviour."
+  },
+  {
+    "id":294,
+    "en":"distort (v)",
+    "tr":"to change something from its true meaning, condition or shape, especially in a way that makes it worse."
+  },
+  {
+    "id":295,
+    "en":"intentionally (adv)",
+    "tr":"in a deliberate and planned way; done on purpose."
+  },
+  {
+    "id":296,
+    "en":"piracy (n)",
+    "tr":"the act of illegally copying and distributing someone else's work or the act of attacking and robbing ships at sea."
+  },
+  {
+    "id":297,
+    "en":"predicament (n)",
+    "tr":"a difficult, unpleasant, or embarrassing situation."
+  },
+  {
+    "id":298,
+    "en":"smuggle (v)",
+    "tr":"to move goods or people into or out of a country secretly and illegally."
+  },
+  {
+    "id":299,
+    "en":"villainy (n)",
+    "tr":"cruel or wicked behaviour."
+  },
+  {
+    "id":300,
+    "en":"addictive (adj)",
+    "tr":"causing a strong need to regularly have or do something."
+  },
+  {
+    "id":301,
+    "en":"cartel (n)",
+    "tr":"a group of separate businesses that agree to control prices and limit competition."
+  },
+  {
+    "id":302,
+    "en":"concentrated (adj)",
+    "tr":"containing a large amount of a substance in proportion to water or other substances."
+  },
+  {
+    "id":303,
+    "en":"interdict (v)",
+    "tr":"to officially prohibit or forbid something."
+  },
+  {
+    "id":304,
+    "en":"juxtapose (v)",
+    "tr":"to place things together, especially to show contrast."
+  },
+  {
+    "id":305,
+    "en":"misconception (n)",
+    "tr":"a belief or idea that is not based on correct information."
+  },
+  {
+    "id":306,
+    "en":"modify (v)",
+    "tr":"to change something slightly in order to improve it or make it more suitable."
+  },
+  {
+    "id":307,
+    "en":"potent (adj)",
+    "tr":"having a strong effect or influence."
+  },
+  {
+    "id":308,
+    "en":"residual (adj)",
+    "tr":"remaining after the main part has gone or been dealt with."
+  },
+  {
+    "id":309,
+    "en":"subtly (adv)",
+    "tr":"in a way that is not obvious or easy to notice."
+  },
+  {
+    "id":310,
+    "en":"ancestral (adj)",
+    "tr":"connected with or that belonged to people's ancestors."
+  },
+  {
+    "id":311,
+    "en":"cohesion (n)",
+    "tr":"the act or state of sticking together tightly."
+  },
+  {
+    "id":312,
+    "en":"descendant (n)",
+    "tr":"a person who is related to you and who lives after you."
+  },
+  {
+    "id":313,
+    "en":"inheritance (n)",
+    "tr":"money, property, etc., that is received from someone when they die."
+  },
+  {
+    "id":314,
+    "en":"kin (n)",
+    "tr":"a person's relatives or family."
+  },
+  {
+    "id":315,
+    "en":"legitimate (adj)",
+    "tr":"allowed and acceptable according to the law or rules."
+  },
+  {
+    "id":316,
+    "en":"paternal (adj)",
+    "tr":"connected with being a father; fatherly."
+  },
+  {
+    "id":317,
+    "en":"proximity (n)",
+    "tr":"the state of being near someone or something."
+  },
+  {
+    "id":318,
+    "en":"sentiment (n)",
+    "tr":"a feeling or an opinion based on emotions."
+  },
+  {
+    "id":319,
+    "en":"sibling (n)",
+    "tr":"a brother or sister."
+  },
+  {
+    "id":320,
+    "en":"affection (n)",
+    "tr":"a gentle feeling of liking or love."
+  },
+  {
+    "id":321,
+    "en":"associate (v)",
+    "tr":"to connect someone or something in your mind with someone or something else."
+  },
+  {
+    "id":322,
+    "en":"bond (n)",
+    "tr":"a strong connection or feeling of friendship between people."
+  },
+  {
+    "id":323,
+    "en":"clique (n)",
+    "tr":"a small group of people who spend time together and do not allow others to join them."
+  },
+  {
+    "id":324,
+    "en":"confide (v)",
+    "tr":"to tell someone a secret or private matter while trusting them not to repeat it to others."
+  },
+  {
+    "id":325,
+    "en":"exclusive (adj)",
+    "tr":"only for particular people; not shared."
+  },
+  {
+    "id":326,
+    "en":"fluctuate (v)",
+    "tr":"to change frequently in size, amount, quality, etc., especially from one extreme to another."
+  },
+  {
+    "id":327,
+    "en":"in common (phrase)",
+    "tr":"shared by two or more people."
+  },
+  {
+    "id":328,
+    "en":"solidarity (n)",
+    "tr":"support by one group of people for another because they share feelings, opinions, or aims."
+  },
+  {
+    "id":329,
+    "en":"willing (adj)",
+    "tr":"ready or pleased to do something; not reluctant."
+  },
+  {
+    "id":330,
+    "en":"complex (adj)",
+    "tr":"made of many different things or parts that are connected; not simple."
+  },
+  {
+    "id":331,
+    "en":"despondent (adj)",
+    "tr":"sad, without much hope."
+  },
+  {
+    "id":332,
+    "en":"devotion (n)",
+    "tr":"great love, care, and support for someone or something."
+  },
+  {
+    "id":333,
+    "en":"dilemma (n)",
+    "tr":"a situation in which a difficult choice has to be made between two or more things."
+  },
+  {
+    "id":334,
+    "en":"engender (v)",
+    "tr":"to cause a particular feeling or situation to exist."
+  },
+  {
+    "id":335,
+    "en":"loyal (adj)",
+    "tr":"remaining constant in your support of someone or something."
+  },
+  {
+    "id":336,
+    "en":"passion (n)",
+    "tr":"a strong feeling of love, anger, enthusiasm, etc."
+  },
+  {
+    "id":337,
+    "en":"proliferation (n)",
+    "tr":"the sudden increase in the number or amount of something."
+  },
+  {
+    "id":338,
+    "en":"reciprocity (n)",
+    "tr":"a situation in which two people or groups give and receive the same things."
+  },
+  {
+    "id":339,
+    "en":"vanish (v)",
+    "tr":"to disappear suddenly and\/or in a way that cannot be explained."
+  },
+  {
+    "id":340,
+    "en":"antipathy (n)",
+    "tr":"a strong feeling of dislike."
+  },
+  {
+    "id":341,
+    "en":"arrogantly (adv)",
+    "tr":"in a proud and unpleasant way that shows you think you are better than others."
+  },
+  {
+    "id":342,
+    "en":"berate (v)",
+    "tr":"to criticize or speak angrily to someone."
+  },
+  {
+    "id":343,
+    "en":"contemptuous (adj)",
+    "tr":"showing that you have no respect for somebody or something."
+  },
+  {
+    "id":344,
+    "en":"despise (v)",
+    "tr":"to dislike and have no respect for someone or something."
+  },
+  {
+    "id":345,
+    "en":"humiliation (n)",
+    "tr":"a feeling of being ashamed or stupid and having lost the respect of other people."
+  },
+  {
+    "id":346,
+    "en":"obnoxious (adj)",
+    "tr":"extremely unpleasant, especially in a way that offends people."
+  },
+  {
+    "id":347,
+    "en":"shame (n)",
+    "tr":"the feeling of being guilty or embarrassed because you have done something wrong."
+  },
+  {
+    "id":348,
+    "en":"stigmatize (v)",
+    "tr":"to treat someone in a way that makes them feel that they are very bad or not important."
+  },
+  {
+    "id":349,
+    "en":"vitriolic (adj)",
+    "tr":"full of angry and cruel criticism."
+  },
+  {
+    "id":350,
+    "en":"adolescent (n)",
+    "tr":"a young person who is developing from a child into an adult."
+  },
+  {
+    "id":351,
+    "en":"cause (n)",
+    "tr":"a principle or aim that a group of people support or fight for."
+  },
+  {
+    "id":352,
+    "en":"conflict (n)",
+    "tr":"a situation in which people, groups, or countries are involved in a serious disagreement."
+  },
+  {
+    "id":353,
+    "en":"delinquency (n)",
+    "tr":"bad or criminal behaviour, especially of young people."
+  },
+  {
+    "id":354,
+    "en":"fringe (n)",
+    "tr":"the outer edge of something; a group with extreme views."
+  },
+  {
+    "id":355,
+    "en":"hedonistic (adj)",
+    "tr":"believing that pleasure is the most important thing in life."
+  },
+  {
+    "id":356,
+    "en":"hypocritically (adv)",
+    "tr":"in a way that shows you pretend to have moral standards you do not really follow."
+  },
+  {
+    "id":357,
+    "en":"manipulation (n)",
+    "tr":"the act of influencing someone in a clever or dishonest way."
+  },
+  {
+    "id":358,
+    "en":"rebel (n)",
+    "tr":"a person who fights against the government or refuses to obey rules or authority."
+  },
+  {
+    "id":359,
+    "en":"status quo (n)",
+    "tr":"the situation as it is now, or as it was before a recent change."
+  },
+  {
+    "id":360,
+    "en":"abstract (adj)",
+    "tr":"based on general ideas and not on any particular real person, thing or situation."
+  },
+  {
+    "id":361,
+    "en":"context (n)",
+    "tr":"the situation in which something happens and that helps you understand it."
+  },
+  {
+    "id":362,
+    "en":"depict (v)",
+    "tr":"to show an image of someone or something in a picture or story."
+  },
+  {
+    "id":363,
+    "en":"dimension (n)",
+    "tr":"a measurement in space, such as the length, width, or height of something."
+  },
+  {
+    "id":364,
+    "en":"aesthetically (adv)",
+    "tr":"in a way that is connected with beauty or the appreciation of beauty. (not: spelling corrected from \"esthtically\")"
+  },
+  {
+    "id":365,
+    "en":"intrinsic (adj)",
+    "tr":"belonging to the basic nature of someone or something."
+  },
+  {
+    "id":366,
+    "en":"perspective (n)",
+    "tr":"a way of thinking about something; a viewpoint."
+  },
+  {
+    "id":367,
+    "en":"portrayal (n)",
+    "tr":"the act of showing or describing someone or something in a book, painting, play, etc."
+  },
+  {
+    "id":368,
+    "en":"realism (n)",
+    "tr":"the quality of representing things in a way that is accurate and true to life."
+  },
+  {
+    "id":369,
+    "en":"spectrum (n)",
+    "tr":"a range of different positions, opinions, or people."
+  },
+  {
+    "id":370,
+    "en":"advent (n)",
+    "tr":"the coming of an important event, person, invention, etc."
+  },
+  {
+    "id":371,
+    "en":"ambiguous (adj)",
+    "tr":"having more than one possible meaning; not clear."
+  },
+  {
+    "id":372,
+    "en":"connotation (n)",
+    "tr":"an idea or feeling that a word invokes in addition to its literal meaning. (not: spelling corrected from \"connatation\")"
+  },
+  {
+    "id":373,
+    "en":"decipher (v)",
+    "tr":"to succeed in understanding the meaning of something that is difficult to read or understand."
+  },
+  {
+    "id":374,
+    "en":"denote (v)",
+    "tr":"to be a sign of something; to mean something clearly."
+  },
+  {
+    "id":375,
+    "en":"illiterate (adj)",
+    "tr":"not knowing how to read or write."
+  },
+  {
+    "id":376,
+    "en":"ingenious (adj)",
+    "tr":"very clever and original."
+  },
+  {
+    "id":377,
+    "en":"inscription (n)",
+    "tr":"words written or cut into something, especially as a formal or permanent record."
+  },
+  {
+    "id":378,
+    "en":"phonetic (adj)",
+    "tr":"connected with the sounds of human speech."
+  },
+  {
+    "id":379,
+    "en":"symbolic (adj)",
+    "tr":"representing something else."
+  },
+  {
+    "id":380,
+    "en":"amateurish (adj)",
+    "tr":"done in a way that is not skillful or professional."
+  },
+  {
+    "id":381,
+    "en":"cast (n)",
+    "tr":"all the people who act in a play or film."
+  },
+  {
+    "id":382,
+    "en":"charismatic (adj)",
+    "tr":"having a powerful personal quality that makes people admire you and want to follow you."
+  },
+  {
+    "id":383,
+    "en":"gala (n)",
+    "tr":"a special public celebration or performance."
+  },
+  {
+    "id":384,
+    "en":"hilarious (adj)",
+    "tr":"extremely funny."
+  },
+  {
+    "id":385,
+    "en":"improvisation (n)",
+    "tr":"the act of making or doing something using whatever is available, usually because you do not have what you really need."
+  },
+  {
+    "id":386,
+    "en":"incompetent (adj)",
+    "tr":"not having the skill or ability to do your job or a task as it should be done."
+  },
+  {
+    "id":387,
+    "en":"medium (n)",
+    "tr":"a way of communicating information or artistic expression (such as television, art, etc.)."
+  },
+  {
+    "id":388,
+    "en":"skit (n)",
+    "tr":"a short, usually funny, performance or piece of writing that makes a joke about something."
+  },
+  {
+    "id":389,
+    "en":"zeal (n)",
+    "tr":"great energy or enthusiasm for something, especially a cause or goal."
+  },
+  {
+    "id":390,
+    "en":"bulk (n)",
+    "tr":"the main part of something; large size or mass."
+  },
+  {
+    "id":391,
+    "en":"capricious (adj)",
+    "tr":"changing suddenly and unexpectedly, especially in mood or behavior."
+  },
+  {
+    "id":392,
+    "en":"cumbersome (adj)",
+    "tr":"large and heavy, making something difficult to carry, wear, or use."
+  },
+  {
+    "id":393,
+    "en":"exotic (adj)",
+    "tr":"seeming unusual and exciting because it is connected with foreign countries."
+  },
+  {
+    "id":394,
+    "en":"inhibit (v)",
+    "tr":"to prevent something from happening or make it happen more slowly."
+  },
+  {
+    "id":395,
+    "en":"minimum (n)",
+    "tr":"the smallest or lowest amount possible or allowed."
+  },
+  {
+    "id":396,
+    "en":"striking (adj)",
+    "tr":"very attractive or noticeable."
+  },
+  {
+    "id":397,
+    "en":"trend (n)",
+    "tr":"a general direction in which something is developing or changing."
+  },
+  {
+    "id":398,
+    "en":"vanity (n)",
+    "tr":"too much pride in your own appearance, abilities, or achievements."
+  },
+  {
+    "id":399,
+    "en":"vulnerable (adj)",
+    "tr":"weak and easily hurt physically or emotionally."
+  }
+]
